@@ -1,0 +1,22 @@
+body{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+   }
+  .timer{
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    background-color: bisque;
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .field{
+    width: 50px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  }
+
+/*# sourceMappingURL=/styles.f43277d9.css.map */
